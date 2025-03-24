@@ -1,5 +1,3 @@
 # DStatistic-Tomi-2
-#This is the reposytorium for Tomek and Mateusz
-#oh yeah
-tomek to sigma
-test 17
+This is the reposytorium for Tomek and Mateusz
+## [Data Wrangling Markdown file](DataWrangling.md)
