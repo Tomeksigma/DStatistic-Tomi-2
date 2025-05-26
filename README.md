@@ -5,3 +5,4 @@ s203184, s203912
 ## [Data Cleansing Markdown file](DataCleansing.md)
 ## [Data Visualisation Markdown file](DataVisualisation.md)
 ## [Univariate Analysis Markdown file](UnivariateAnalysis.md)
+## [Bivariate Analuysis Markdown file](BivariateAnalysis.md)
