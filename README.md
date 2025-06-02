@@ -6,4 +6,4 @@ s203184, s203912
 ## [Data Visualisation Markdown file](DataVisualisation.md)
 ## [Univariate Analysis Markdown file](UnivariateAnalysis.md)
 ## [Bivariate Analysis Markdown file](BivariateAnalysis.md)
-## [Multivariate Statistics Markdown file](MultivariateStatistics.md)
+## [Regression Analysis Markdown file](RegressionAnalysis.md)
